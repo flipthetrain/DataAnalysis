@@ -88,7 +88,7 @@ isExact<-FALSE
 isRemoveNA<-TRUE
 # TRUE if raw data are already melted
 # FALSE if raw data are not already melted 
-isMelted<-FALSE
+isMelted<-TRUE
 # TRUE if raw data are already clean
 # FALSE if raw data are not already clean 
 isCleaned<-TRUE
